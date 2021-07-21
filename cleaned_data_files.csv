@@ -1,0 +1,88 @@
+﻿Date,Version,Disturbance,last_boss,final_boss,Rank,Weather,main_dps,Sub_weather,sub_boss,sub_dps,Points,Change,Final Trophy
+2020-09-16 00:00:00.000,4.2,320,Super Mecha Evoji,Durandal,RL,Lightning,Herscherr of Thunder,Quantum,Maelstrom,Not used,10938,-100,1680
+2020-09-20 00:00:00.000,4.2,324,Super Mecha Evoji,Durandal,RL,Lightning,Herscherr of Thunder,Quantum,Maelstrom,Swallowtail Phantasm,17065,-100,1580
+2020-09-23 00:00:00.000,4.2,334,Flame Emperor,Benares: Fire form,RL,Frost,Herscherr of Reason,Physical,Scarletweb,Swallowtail Phantasm,16418,-100,1480
+2020-09-27 00:00:00.000,4.2,259,Benares: Fire form,Benares: Fire form,AG3,Frost,Herscherr of Reason,Physical,Scarletweb,Swallowtail Phantasm,21797,0,1480
+2020-09-30 00:00:00.000,4.2,260,AesirHeimdall,AesirHeimdall,AG3,Fire,Blood Rose,Physical,Scarletweb,Swallowtail Phantasm,21685,200,1680
+2020-10-04 00:00:00.000,4.2,345,Nightmare Module G-2,Husk-Nihilius,RL,Lightning,Herscherr of Thunder,Ranged,DarkBronya,Not used,5492,-100,1580
+2020-10-07 00:00:00.000,4.2,335,Super Mecha Evoji,Durandal,RL,Lightning,Herscherr of Reason,Frost,Flame Emperor,Herscherr of Reason,15981,-100,1480
+2020-10-11 00:00:00.000,4.2,230,Huodou,Huodou,AG3,Frost,Herscherr of Reason,Lightning,Super Mecha Evoji,Herscherr of Thunder,21785,200,1680
+2020-10-14 00:00:00.000,4.2,330,Super Mecha Evoji,Durandal,RL,Lightning,Herscherr of Thunder,Ranged,DarkBronya,Herscherr of the Void,16816,-100,1580
+2020-10-18 00:00:00.000,4.2,320,JizoMitama,JizoMitama,RL,Physical,Herscherr of the Void,Quantum,Tonatiuh,Swallowtail Phantasm,20621,0,1580
+2020-10-21 00:00:00.000,4.2,311,AesirHeimdall,AesirHeimdall,RL,Fire,Blood Rose,Fire,Herrscher of the Rimestar,Flame Sakitama,21289,0,1580
+2020-10-25 00:00:00.000,4.2,301,JizoMitama,JizoMitama,RL,Physical,Herscherr of the Void,Fire,Herrscher of the Rimestar,Flame Sakitama,21179,-100,1480
+2020-10-28 00:00:00.000,4.2,188,Husk-Nihilius,Husk-Nihilius,AG3,Lightning,Darkbolt Jonin,Fire,Kumbhakarna,Flame Sakitama,21763,100,1580
+2020-11-01 00:00:00.000,4.3,295,AesirHeimdall,AesirHeimdall,RL,Fire,Blood Rose,Ranged,DarkBronya,Herscherr of the Void,21393,-100,1480
+2020-11-04 00:00:00.000,4.3,181,JizoMitama,JizoMitama,AG3,Physical,Herscherr of the Void,Lightning,Super Mecha Evoji,Herscherr of Thunder,21834,-75,1405
+2020-11-07 00:00:00.000,4.3,184,Husk-Nihilius,Husk-Nihilius,AG3,Lightning,Darkbolt Jonin,Quantum,Tonatiuh,Swallowtail Phantasm,21795,100,1505
+2020-11-11 00:00:00.000,4.3,290,Shadow Knight,Shadow Knight,RL,Counter,Herscherr of Thunder,Frost,Flame Emperor,Herscherr of Thunder,21226,-100,1405
+2020-11-15 00:00:00.000,4.3,190,Couatl: Revenant,Couatl: Revenant,AG3,Quantum,Swallowtail Phantasm,Fire,Kumbhakarna,Flame Sakitama,21774,100,1505
+2020-11-18 00:00:00.000,4.3,292,AesirHeimdall,AesirHeimdall,RL,Fire,Blood Rose,Quantum,Tonatiuh,Swallowtail Phantasm,21484,-100,1405
+2020-11-21 00:00:00.000,4.3,196,Benares: Fire form,Benares: Fire form,AG3,Frost,Herscherr of Reason,Ranged,DarkBronya,Herscherr of the Void,21925,200,1605
+2020-11-25 00:00:00.000,4.3,295,JizoMitama,JizoMitama,RL,Physical,Swallowtail Phantasm,Frost,Flame Emperor,Herscherr of Thunder,21367,0,1605
+2020-11-29 00:00:00.000,4.3,297,Durandal,Durandal,RL,Lightning,Herscherr of Thunder,Physical,Scarletweb,Swallowtail Phantasm,21419,-100,1505
+2020-12-02 00:00:00.000,4.3,296,Huodou,Huodou,RL,Frost,Herscherr of Reason,Lightning,Super Mecha Evoji,Herscherr of Thunder,21727,-100,1405
+2020-12-06 00:00:00.000,4.3,208,Shadow Knight,Shadow Knight,AG3,Counter,Herscherr of Thunder,Fire,Kumbhakarna,Flame Sakitama,21773,-150,1255
+2020-12-09 00:00:00.000,4.3,211,AesirHeimdall,AesirHeimdall,AG3,Fire,Herscherr of Thunder,Quantum,Tonatiuh,Stygian Nymph,21863,200,1455
+2020-12-13 00:00:00.000,4.3,209,Huodou,Huodou,AG3,Counter,Herscherr of Reason,Frost,Flame Emperor,Herscherr of Thunder,21910,200,1655
+2020-12-16 00:00:00.000,4.3,302,Husk-Nihilius,Husk-Nihilius,RL,Lightning,Darkbolt Jonin,Quantum,Tonatiuh,Swallowtail Phantasm,21199,-100,1555
+2020-12-20 00:00:00.000,4.4,300,Couatl: Revenant,Couatl: Revenant,RL,Quantum,Swallowtail Phantasm,Ranged,DarkBronya,Herscherr of the Void,21553,0,1555
+2020-12-23 00:00:00.000,4.4,303,JizoMitama,JizoMitama,RL,Physical,Herscherr of the Void,Frost,Flame Emperor,Herscherr of Thunder,21304,-100,1455
+2020-12-27 00:00:00.000,4.4,218,Herrscher of the Rimestar,Herrscher of the Rimestar,AG3,Fire,Flame Sakitama,Lightning,Super Mecha Evoji,Herscherr of Thunder,21589,0,1455
+2020-12-30 00:00:00.000,4.4,215,Shadow Knight,Shadow Knight,AG3,Counter,Delta,Fire,Kumbhakarna,Flame Sakitama,21850,0,1455
+2021-01-03 00:00:00.000,4.4,218,Couatl: Revenant,Couatl: Revenant,AG3,Quantum,Valkyrie Gloria,Ranged,DarkBronya,Herscherr of the Void,21735,100,1555
+2021-01-06 00:00:00.000,4.4,311,Durandal,Durandal,RL,Lightning,Herscherr of Thunder,Physical,Scarletweb,Swallowtail Phantasm,21495,-100,1455
+2021-01-10 00:00:00.000,4.4,224,Benares: Fire form,Benares: Fire form,AG3,Frost,Herscherr of Reason,Ranged,DarkBronya,Herscherr of the Void,21901,200,1655
+2021-01-13 00:00:00.000,4.4,317,Lance Rider,Argent Knight: Artemis,RL,Ignited,Herscherr of the Void,Lightning,Super Mecha Evoji,Herscherr of Thunder,17458,-100,1555
+2021-01-17 00:00:00.000,4.4,320,Huodou,Huodou,RL,Frost,Herscherr of Reason,Fire,Kumbhakarna,Herscherr of the Void,21698,0,1555
+2021-01-20 00:00:00.000,4.4,323,JizoMitama,JizoMitama,RL,Physical,Herscherr of the Void,Frost,Flame Emperor,Herscherr of Thunder,21176,-100,1455
+2021-01-24 00:00:00.000,4.5,236,Benares: Fire form,Benares: Fire form,AG3,Frost,Herscherr of Reason,Ranged,DarkBronya,Herscherr of the Void,21890,200,1655
+2021-01-27 00:00:00.000,4.5,326,Huodou,Huodou,RL,Frost,Herscherr of Reason,Bloodthirsty,AesirBaldr,Herscherr of Reason,21684,0,1655
+2021-01-31 00:00:00.000,4.5,329,Son of Dawn,Saha: Assaka,RL,Physical,Herscherr of the Void,Ranged,DarkBronya,Herscherr of the Void,17533,-100,1555
+2021-02-03 00:00:00.000,4.5,330,Couatl: Revenant,Couatl: Revenant,RL,Quantum,Swallowtail Phantasm,Fire,Kumbhakarna,Herscherr of the Void,21209,-100,1455
+2021-02-07 00:00:00.000,4.5,237,Dark Xuanyuan,Dark Xuanyuan,AG3,Counter,Herscherr of Reason,Frost,Flame Emperor,Herscherr of Thunder,21871,200,1655
+2021-02-10 00:00:00.000,4.5,330,Huodou,Huodou,RL,Frost,Herscherr of Reason,Physical,Scarletweb,Swallowtail Phantasm,21489,-100,1555
+2021-02-14 00:00:00.000,4.5,333,Ganesha,Herrscher of the Rimestar,RL,Fire,Herscherr of the Void,Counter,MHT-3Pax,Herscherr of Reason,16675,-100,1455
+2021-02-17 00:00:00.000,4.5,240,Couatl: Revenant,Couatl: Revenant,AG3,Quantum,Swallowtail Phantasm,Fire,Kumbhakarna,Flame Sakitama,21766,200,1655
+2021-02-21 00:00:00.000,4.5,327,JizoMitama,JizoMitama,RL,Physical,Herscherr of the Void,Electrified,Legatus,Herscherr of Thunder,21003,-100,1555
+2021-02-24 00:00:00.000,4.5,327,Dark Xuanyuan,Dark Xuanyuan,RL,Counter,Herscherr of Reason,Frost,Flame Emperor,Herscherr of the Void,21337,-100,1455
+2021-02-28 00:00:00.000,4.5,243,Tonatiuh,Tonatiuh,AG3,Lightning,Herscherr of Thunder,Physical,Scarletweb,Swallowtail Phantasm,21789,100,1555
+2021-03-03 00:00:00.000,4.5,333,Ganesha,Herrscher of the Rimestar,RL,Fire,Herscherr of the Void,Lightning,Super Mecha Evoji,Herscherr of Thunder,17168,-100,1455
+2021-03-07 00:00:00.000,4.6,243,Saha: Assaka,Saha: Assaka,AG3,Physical,Herscherr of Sentience,Ranged,DarkBronya,Herscherr of the Void,21916,200,1655
+2021-03-10 00:00:00.000,4.6,336,Benares: Fire form,Benares: Fire form,RL,Frost,Herscherr of Reason,Physical,Scarletweb,Herscherr of Sentience,21377,-100,1555
+2021-03-14 00:00:00.000,4.6,339,HOMU-M,HOMU-M,RL,Bloodthirsty,Herscherr of Sentience,Lightning,Super Mecha Evoji,Herscherr of Thunder,21571,0,1555
+2021-03-17 00:00:00.000,4.6,342,AesirHeimdall,AesirHeimdall,RL,Fire,Blood Rose,Quantum,Tonatiuh,Herscherr of Thunder,20236,0,1555
+2021-03-21 00:00:00.000,4.6,339,Dark Xuanyuan,Dark Xuanyuan,RL,Counter,Herscherr of Sentience,Fire,Kumbhakarna,Herscherr of Sentience,21594,0,1555
+2021-03-24 00:00:00.000,4.6,337,Durandal,Durandal,RL,Lightning,Herscherr of Thunder,Ranged,DarkBronya,Herscherr of the Void,21299,-100,1455
+2021-03-28 00:00:00.000,4.6,246,JizoMitama,JizoMitama,AG3,Physical,Herscherr of Sentience,Frost,Flame Emperor,Herscherr of Reason,21865,200,1655
+2021-03-31 00:00:00.000,4.6,340,Herrscher of the Rimestar,Herrscher of the Rimestar,RL,Fire,Herscherr of Sentience,Lightning,Super Mecha Evoji,Herscherr of Thunder,21326,0,1655
+2021-04-04 00:00:00.000,4.6,340,Benares: Fire form,Benares: Fire form,RL,Frost,Herscherr of Reason,Ranged,DarkBronya,Herscherr of the Void,21316,-100,1555
+2021-04-07 00:00:00.000,4.6,343,HOMU-M,HOMU-M,RL,Bloodthirsty,Herscherr of Sentience,Fire,Screeching Hunter,Herscherr of Thunder,21553,0,1555
+2021-04-11 00:00:00.000,4.6,342,Couatl: Revenant,Couatl: Revenant,RL,Quantum,Herscherr of Sentience,Fire,Kumbhakarna,Herscherr of Sentience,21500,0,1555
+2021-04-14 00:00:00.000,4.6,339,Huodou,Huodou,RL,Frost,Herscherr of Reason,Lightning,Super Mecha Evoji,Herscherr of Thunder,21407,-100,1455
+2021-04-18 00:00:00.000,4.6,246,Shadow Knight,Shadow Knight,AG3,Counter,Delta,Frost,Flame Emperor,Herscherr of Reason,21889,200,1655
+2021-04-21 00:00:00.000,4.6,345,Husk-Nihilius,Husk-Nihilius,RL,Lightning,Darkbolt Jonin,Quantum,Tonatiuh,Herscherr of Sentience,19579,-100,1555
+2021-04-25 00:00:00.000,4.7,342,Huodou,Huodou,RL,Frost,Herscherr of Reason,Bloodthirsty,AesirBaldr,Herscherr of Reason,21562,-100,1455
+2021-04-28 00:00:00.000,4.7,250,Benares: Fire form,Benares: Fire form,AG3,Frost,Herscherr of Reason,Physical,Scarletweb,Herscherr of Sentience,21840,100,1555
+2021-05-02 00:00:00.000,4.7,348,Saha: Assaka,Saha: Assaka,RL,Ranged,Herscherr of the Void,Bloodthirsty,Immortal Blades: Saboteur,Herscherr of Sentience,21179,-100,1455
+2021-05-05 00:00:00.000,4.7,256,Herrscher of the Rimestar,Herrscher of the Rimestar,AG3,Fire,Herscherr of Sentience,Counter,MHT-3Pax,Herscherr of Reason,21624,200,1655
+2021-05-09 00:00:00.000,4.7,354,Durandal,Durandal,RL,Lightning,Herscherr of Thunder,Ranged,DarkBronya,Herscherr of the Void,21161,-100,1555
+2021-05-12 00:00:00.000,4.7,355,Argent Knight: Artemis,Argent Knight: Artemis,RL,Ignited,Vermilion Knight : Eclipse,Frost,KijoNinja,Herscherr of Reason,21120,0,1555
+2021-05-16 00:00:00.000,4.7,358,Huodou,Huodou,RL,Frost,Herscherr of Reason,Lightning,Super Mecha Evoji,Herscherr of Thunder,21554,0,1555
+2021-05-19 00:00:00.000,4.7,361,Herscherr of Sentience,Herscherr of Sentience,RL,Counter,Herscherr of Reason,Fire,Kumbhakarna,Herscherr of Sentience,21234,-100,1455
+2021-05-23 00:00:00.000,4.7,255,Parvati,Parvati,AG3,Ignited,Herscherr of Sentience,Frost,KijoNinja,Herscherr of Reason,21760,200,1655
+2021-05-26 00:00:00.000,4.7,362,Dark Xuanyuan,Dark Xuanyuan,RL,Counter,Herscherr of Sentience,Frost,Flame Emperor,Herscherr of Sentience,21459,0,1655
+2021-05-30 00:00:00.000,4.8,362,Couatl: Revenant,Couatl: Revenant,RL,Quantum,Herscherr of Sentience,Fire,Kumbhakarna,Herscherr of Sentience,21307,-100,1555
+2021-06-02 00:00:00.000,4.8,359,Benares: Fire form,Benares: Fire form,RL,Frost,Herscherr of Reason,Physical,Scarletweb,Herscherr of Sentience,21408,-100,1455
+2021-06-06 00:00:00.000,4.8,259,HOMU-M,HOMU-M,AG3,Bloodthirsty,Herscherr of Sentience,Lightning,Super Mecha Evoji,Herscherr of Thunder,21886,200,1655
+2021-06-09 00:00:00.000,4.8,364,Couatl: Revenant,Couatl: Revenant,RL,Quantum,Herscherr of Sentience,Electrified,Legatus,Herscherr of Sentience,21162,-100,1555
+2021-06-13 00:00:00.000,4.8,364,Dark Xuanyuan,Dark Xuanyuan,RL,Counter,Herscherr of Sentience,Quantum,Mexicatl: Torrent of Gluttony,Swallowtail Phantasm,21533,0,1555
+2021-06-16 00:00:00.000,4.8,364,Ganesha,Herrscher of the Rimestar,RL,Fire,Herscherr of Sentience,Counter,MHT-3Pax,Herscherr of Reason,17955,0,1555
+2021-06-20 00:00:00.000,4.8,365,Durandal,Durandal,RL,Lightning,Herscherr of Thunder,Ranged,DarkBronya,Herscherr of the Void,21217,-100,1455
+2021-06-23 00:00:00.000,4.8,270,Couatl: Revenant,Couatl: Revenant,AG3,Quantum,Swallowtail Phantasm,Fire,Kumbhakarna,Flame Sakitama,21744,200,1655
+2021-06-27 00:00:00.000,4.8,366,Screeching Hunter,AesirHeimdall,RL,Fire,Herscherr of Thunder,Quantum,Tonatiuh,Swallowtail Phantasm,17348,-100,1555
+2021-06-30 00:00:00.000,4.8,363,Saha: Assaka,Saha: Assaka,RL,Ranged,Herscherr of the Void,Bloodthirsty,Immortal Blades: Saboteur,Swallowtail Phantasm,21357,0,1555
+2021-07-04 00:00:00.000,4.8,366,Ganesha,Herrscher of the Rimestar,RL,Fire,Herscherr of Sentience,Counter,MHT-3Pax,Herscherr of Reason,17660,-100,1455
+2021-07-07 00:00:00.000,4.8,266,Benares: Fire form,Benares: Fire form,AG3,Frost,Herscherr of Reason,Physical,Scarletweb,Swallowtail Phantasm,21865,100,1555
+2021-07-11 00:00:00.000,4.9,370,Husk-Nihilius,Husk-Nihilius,RL,Lightning,Darkbolt Jonin,Quantum,Tonatiuh,Swallowtail Phantasm,20999,-100,1455
+2021-07-14 00:00:00.000,4.9,272,Benares: Fire form,Benares: Fire form,AG3,Frost,Herscherr of Reason,Physical,Scarletweb,Swallowtail Phantasm,21855,NULL,NULL
