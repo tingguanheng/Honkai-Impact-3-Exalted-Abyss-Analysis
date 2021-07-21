@@ -1,0 +1,77 @@
+Date - Finalisation date 
+Version - Game version:
+Disturbance - Difficulty level
+
+Last_Boss - Furthest Boss reached:
+SME - Super Mecha Evoji
+FE - Flame Emperor
+NMG-2 - Nightmare Module G-2
+FuHua - Shadow Knight
+LR - Lance Rider
+SoD - Son of Dawn
+SH - Screeching Hunter
+
+Final_Boss - Actual final Boss
+Benares - Benares: Fire form
+Nihilius - Husk-Nihilius
+Couatl - Couatl: Revenant
+FuHua - Shadow Knight
+HOTR - Herrscher of the Rimestar
+ArK - Argent Knight: Artemis
+Sassaka - Saha: Assaka
+DXY - Dark Xuanyuan
+HOS - Herscherr of Sentience
+
+Rank:
+RL- Red Lotus
+AG3 - Agony 3
+
+Weather:
+Lightning - 50% bonus lightning damage, 50% less physical damage
+Frost - 50% bonus ice damage, 50% less fire damage
+Fire - 50% bonus fire damage, 50% less ice damage
+Physical - 50% bonus physical damage, 50% less lightning damage
+Quantum - Enemies are mostly QUA type
+Counter - Type countering effects are 20% stronger
+Ignited - Enemies take 40% bonus damage when ignited and within 4s after ignite ends
+Bloodthirsty - Enemy kills increase 20% total damage
+
+
+Main_dps - Characters used:
+HOT - Herscherr of Thunder
+HOR - Herscherr of Reason
+SP - Swallowtail Phantasm
+BR - Blood Rose
+Nil - Not used
+HOV - Herscherr of the Void
+FS - Flame Sakitama
+DJ - Darkbolt Jonin
+SN - Stygian Nymph
+TP - Twilight Paladin
+VG - Valkyrie Gloria
+NS - Night Squire
+HOS - Herscherr of Sentience
+Delta - Molotov Cherry augment
+VK - Vermilion Knight : Eclipse
+
+Sub_weather:
+Quantum - Enemies are mostly QUA type
+Physical - 50% bonus physical damage, 50% less lightning damage
+Ranged - 50% bonus ranged damage, 50% less melee damage
+Frost - 50% bonus ice damage, 50% less fire damage
+Lightning - 50% bonus lightning damage, 50% less physical damage
+Fire - 50% bonus fire damage, 50% less ice damage
+Bloodthirsty - Enemy kills increase 20% total damage
+Counter - Type countering effects are 20% stronger
+Electrified - 40% bonus damage when paralyzed and within 4s after paralysis
+
+Sub_boss:
+FE - Flame Emperor
+SME - Super Mecha Evoji
+HOTR - Herrscher of the Rimestar
+SH - Screeching Hunter
+IBSab - Immortal Blades: Saboteur
+Mexicatl - Mexicatl: Torrent of Gluttony
+
+Sub_dps:
+Refer to main_dps for names
