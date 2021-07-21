@@ -4,8 +4,8 @@ Sequel to Abyss analysis. Honkai Impact 3 Abyss is a PvP mode where players comp
 Sequence of files to read:
 1. Data label Mapping.sql
 2. Data cleaning script.sql
-2a. cleaned_data_files as output of TSQL script
-3. Honkai Impact Exalted Abyss cleaning and analysis
+3. cleaned_data_files as output of TSQL script
+4. Honkai Impact Exalted Abyss cleaning and analysis
 
 Original data source:
 - Exalted Abyss data
