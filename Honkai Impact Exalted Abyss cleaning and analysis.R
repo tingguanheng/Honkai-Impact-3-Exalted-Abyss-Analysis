@@ -32,13 +32,17 @@ boss_names<- as.data.frame(c(
 colnames(boss_names)<- "names"
 boss_names<- boss_names %>%
   separate(names,c("short_forms", "full_name"),sep = "-", extra = "merge")
-
-boss_names$short_forms<- ifelse(boss_names$short_forms == "NMG",
+             
+boss_names$short_forms<- case_when(boss_names$short_forms == "NMG"~
                                "NMG-2",
-                               boss_names$short_forms)
-boss_names$full_name<- ifelse(boss_names$full_name == "2 - Nightmare Module G-2",
+                               boss_names$short_forms == "HOMU"~
+                                 "HOMU-M",
+                               TRUE ~ boss_names$short_forms)
+boss_names$full_name<- case_when(boss_names$full_name == "2 - Nightmare Module G-2"~
        "Nightmare Module G-2",
-       boss_names$full_name)
+       boss_names$full_name == "M - HOMU-Magician"~
+         "HOMU-Magician",
+       TRUE ~ boss_names$full_name)
 
 boss_names<- as.data.frame(apply(boss_names,2,trimws))
 
