@@ -38,7 +38,8 @@ boss_name nvarchar(max)
 ('ArK' , 'Argent Knight: Artemis'),
 ('Sassaka' , 'Saha: Assaka'),
 ('DXY' , 'Dark Xuanyuan'),
-('HOS' , 'Herscherr of Sentience')
+('HOS' , 'Herscherr of Sentience'),
+('HOMU-M', 'HOMU-Magician')
 
 drop table if exists main_dps
 
