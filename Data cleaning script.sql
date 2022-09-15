@@ -1,4 +1,4 @@
--- Updated as of 13 July 2021
+-- Updated as of 15 September 2022
 
 use HI3_Exalted_Abyss
 
