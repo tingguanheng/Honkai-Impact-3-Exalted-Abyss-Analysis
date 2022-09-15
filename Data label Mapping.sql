@@ -18,7 +18,9 @@ boss_name nvarchar(max)
 ('FuHua' , 'Shadow Knight'),
 ('LR' , 'Lance Rider'),
 ('SoD' , 'Son of Dawn'),
-('SH' , 'Screeching Hunter')
+('SH' , 'Screeching Hunter'),
+('VWeb' , 'Venomous Web'),
+('HuskA' , 'Husk-Agnosis')
 
 drop table if exists final_boss
 
@@ -39,7 +41,21 @@ boss_name nvarchar(max)
 ('Sassaka' , 'Saha: Assaka'),
 ('DXY' , 'Dark Xuanyuan'),
 ('HOS' , 'Herscherr of Sentience'),
-('HOMU-M', 'HOMU-Magician')
+('HOMU-M', 'HOMU-Magician'),
+('NihiliusB' , 'Husk-Nihilius'),
+('Ninja' , 'The Mysterious Ninja'),
+('MHT3B' , 'MHT-3B Nirvana'),
+('DoW' , 'Dominator of Wolves'),
+('ADRL' , 'Arc DEF: Riot & Lich'),
+('HoDM' , 'HoD Minion'),
+('ST' , 'Storm Templar'),
+('Elysia' , 'Flame Chaser: Elysia'),
+('Otto' , 'Otto Apocalypse'),
+('OA' , 'Otto Apocalypse'),
+('LSS' , 'Li Sushang'),
+('NK' , 'Nocturnal Knight'),
+('TonatiuhB' , 'Tonatiuh'),
+('OS' , 'Opaque Shadow')
 
 drop table if exists main_dps
 
@@ -64,7 +80,14 @@ dps_name nvarchar(max)
 ('VG' , 'Valkyrie Gloria'),
 ('NS' , 'Night Squire'),
 ('HOS' , 'Herscherr of Sentience'),
-('VK' , 'Vermilion Knight : Eclipse')
+('VK' , 'Vermilion Knight : Eclipse'),
+('HOF' , 'Herrscher of Flamescion'),
+('AK' , 'Argent Knight : Artemis'),
+('FR' , 'Fallen Rosemary'),
+('SK' , 'Shadow Knight'),
+('SA' , 'Spina Astera'),
+('BK' , 'Bright Knight: Excelsis'),
+('PE' , 'Platinum Equinox')
 
 drop table if exists sub_boss
 
@@ -81,4 +104,9 @@ boss_name nvarchar(max)
 ('HOTR' , 'Herrscher of the Rimestar'),
 ('SH' , 'Screeching Hunter'),
 ('IBSab' , 'Immortal Blades: Saboteur'),
-('Mexicatl' , 'Mexicatl: Torrent of Gluttony')
+('Mexicatl' , 'Mexicatl: Torrent of Gluttony'),
+('MexicatlB' , 'Mexicatl: Torrent of Gluttony'),
+('ST' , 'Storm Templar'),
+('Padrino' , 'Padrino MFG'),
+('SoD' , 'Son of Dawn'),
+('SR' , 'Shrapnel Rattler')
